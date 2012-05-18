@@ -4,6 +4,8 @@ MS Excel NPM module. Allows you to work directly with excel files either by read
 
 **This is a work in progress and we expect to release the first version around the end of March.**
 
+** Unfortunately due to busy work schedules work has been delayed on this project. **
+
 ## Installation
     npm install node-excel
 
